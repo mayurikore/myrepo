@@ -2,3 +2,5 @@ aws services
 1.ec2
 2.s3
 3.rds
+4.route53
+5.cloudwatch
