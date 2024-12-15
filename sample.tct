@@ -5,3 +5,4 @@ aws services
 4.route53
 5.cloudwatch
 6.efs
+7.autoscaling
