@@ -7,3 +7,4 @@ aws services
 6.efs
 7.autoscaling
 8.aws lambda
+9.load balancer
