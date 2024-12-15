@@ -4,3 +4,4 @@ aws services
 3.rds
 4.route53
 5.cloudwatch
+6.efs
