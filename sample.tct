@@ -6,3 +6,4 @@ aws services
 5.cloudwatch
 6.efs
 7.autoscaling
+8.aws lambda
